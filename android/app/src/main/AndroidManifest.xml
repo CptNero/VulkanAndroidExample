@@ -12,7 +12,7 @@
         android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
         android:hasCode="false">
         <activity android:name="android.app.NativeActivity"
-            android:screenOrientation="landscape"
+            android:screenOrientation="fullSensor"
             android:configChanges="orientation|screenSize|screenLayout"
             android:exported="true">
             <meta-data android:name="android.app.lib_name"
