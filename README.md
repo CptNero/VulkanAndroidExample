@@ -1,4 +1,4 @@
-# VkQueueFamilyTester
+# VulkanAndroidExample
 
 Android port of the VulkanTutorial example.
 
